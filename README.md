@@ -50,13 +50,6 @@
 
 ###
 
-<h2 align="left">📊 My GitHub Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
 
 ###
 
