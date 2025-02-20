@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2022, still debugging till now...<br>📚 Currently learning Cloud Computing & DevOps<br>🎯 Goals: Becoming a full-stack developer & securing an internship in Japan 🇯🇵<br>🎲 Fun fact: I spend more time fixing bugs than writing code. Also, I cook better than I code 🍳😂</p>
+<p align="left">✨ Coding since 2021, still debugging till now...<br>📚 Currently learning Cloud Computing & DevOps<br>🎯 Goals: Becoming a full-stack developer & securing an internship in Japan 🇯🇵<br>🎲 Fun fact: I spend more time fixing bugs than writing code. Also, I cook better than I code 🍳😂</p>
 
 ###
 
