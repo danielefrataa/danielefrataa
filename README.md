@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Cloud Computing & DevOps<br>🎯 Goals: Becoming a full-stack developer & securing an internship in Japan<br>🎲 Fun fact: I track my finances carefully and cook to save money</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Cloud Computing & Next.js<br>🎯 Goals: Becoming a full-stack developer and<br>🎲 Fun fact about me: I'm a overthinker</p>
 
 ###
 
