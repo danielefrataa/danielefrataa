@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Daniel Efrata, a Front-end Developer based in Malang, Indonesia 🚀</p>
+<p align="left">My name is Daniel Efrata, a Progammer based in Malang, Indonesia 🚀</p>
 
 ###
 
@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Coding since 2021, still debugging till now...<br>📚 Currently learning Cloud Computing & DevOps<br>🎯 Goals: Becoming a full-stack developer & securing an internship in Japan 🇯🇵<br>🎲 Fun fact: I spend more time fixing bugs than writing code. Also, I cook better than I code 🍳😂</p>
+<p align="left">
+✨ Started coding in 2021, still debugging to this day...<br>
+📚 Currently diving into Cloud Computing & DevOps<br>
+🎯 Goal: Crafting seamless user experiences as a Front-End Developer (and maybe working in Japan 🇯🇵)<br>
+🎲 Fun fact: I spend more time fixing bugs than writing code. But hey, at least I cook better than I code! 🍳😂
+</p>
 
 ###
 
