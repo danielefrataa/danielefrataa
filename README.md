@@ -42,14 +42,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
 </div>
 
 ###
 
+<h2 align="left">Activity Curently</h2>
+<p align="left">
+✨ Warga Nolep RPN - Phase 0 :'
+✨ Searching a internship 
+✨ Skripsi.
+</p>
 
 ###
 
