@@ -8,11 +8,11 @@
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="center">About Me</h2>
 
 ###
 
-<p align="left">
+<p align="center">
   ✨ Started coding in 2021, still debugging to this day...<br>
   📚 Currently diving into Cloud Computing & DevOps<br>
   🎯 Goal: Crafting seamless user experiences as Back-end Developer (and maybe working in Japan 🇯🇵)<br>
@@ -32,9 +32,8 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" />
   <img width="10" />
-  <a href="https://cdnlogo.com/logo/tailwindcss_42966.html">
-    <img src="https://static.cdnlogo.com/logos/t/58/tailwindcss.svg" height="40" alt="Tailwind CSS" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind"/>
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
