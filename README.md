@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  I'm Daniel Efrata, a programmer based in Malang, Indonesia 🚀
+  I'm Daniel Efrata, a Back-end Dev based in Malang, Indonesia 🚀
 </p>
 
 ###
@@ -15,7 +15,7 @@
 <p align="left">
   ✨ Started coding in 2021, still debugging to this day...<br>
   📚 Currently diving into Cloud Computing & DevOps<br>
-  🎯 Goal: Crafting seamless user experiences as a Front-End Developer (and maybe working in Japan 🇯🇵)<br>
+  🎯 Goal: Crafting seamless user experiences as Back-end Developer (and maybe working in Japan 🇯🇵)<br>
   🎲 Fun fact: My code works 90% of the time... the other 10% is just me staring at the screen hoping it fixes itself. Also, I cook better than I code! 🍳😂
 </p>
 
@@ -25,12 +25,19 @@
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" />
+  <img width="10" />
+  <a href="https://cdnlogo.com/logo/tailwindcss_42966.html">
+    <img src="https://static.cdnlogo.com/logos/t/58/tailwindcss.svg" height="40" alt="Tailwind CSS" />
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="Bootstrap" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="10" />
@@ -40,11 +47,8 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="10" />
-  <a href="https://cdnlogo.com/logo/tailwindcss_42966.html">
-    <img src="https://static.cdnlogo.com/logos/t/58/tailwindcss.svg" height="40" alt="Tailwind CSS" />
-  </a>
+  
+  
 </div>
 
 ###
