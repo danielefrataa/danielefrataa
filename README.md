@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  I'm Daniel Efrata, a Back-end Dev based in Malang, Indonesia 🚀
+  I'm Daniel Efrata, a Back-end Dev & Cloud Enthusiast based in Malang, Indonesia 🚀
 </p>
 
 ###
