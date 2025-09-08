@@ -55,9 +55,9 @@
 ###
 
 <p align="left">
-  🔹 Warga Nolep RPN - Phase 0 😭<br>
-  🔹 Searching for an internship 💼<br>
-  🔹 Working on my thesis 📖
+  🔹 Working on Certified AWS<br>
+  🔹 Working on Certified Junior Web Dev 💼<br>
+
 </p>
 
 ###
