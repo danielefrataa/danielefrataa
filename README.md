@@ -14,9 +14,7 @@
 
 <p align="center">
   ✨ Started coding in 2021, still debugging to this day...<br>
-  📚 Currently diving into Cloud Computing & DevOps<br>
-  🎯 Goal: Crafting seamless user experiences as Back-end Developer (and maybe working in Japan 🇯🇵)<br>
-  🎲 Fun fact: My code works 90% of the time... the other 10% is just me staring at the screen hoping it fixes itself. Also, I cook better than I code! 🍳😂
+  📚 Currently diving into Cloud Computing & DevOps (AWS & GCP) <br>
 </p>
 
 ###
